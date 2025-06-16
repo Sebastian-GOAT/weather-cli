@@ -7,7 +7,7 @@ Current version: 1.0.0
 
 ## ⬇️ Download
 
-Make sure you have installed Python v3.8+ and run the following scripts:
+Make sure you have installed Python v3.8+ and git. Then run the following scripts:
 
 ```bash
 mkdir weather-cli
