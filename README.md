@@ -7,9 +7,16 @@ Current version: 1.0.0
 
 ## ⬇️ Download
 
+Make sure you have installed Python v3.8+ and run the following scripts:
+
 ```bash
-Not aviable for download yet
+mkdir weather-cli
+cd weather-cli
+pip install requests python-dotenv
+git clone https://github.com/Sebastian-GOAT/weather-cli.git
 ```
+
+Then add the project path (e.g. C:/Users/USERNAME/Desktop/weather-cli) to your system PATH.
 
 ## ⚙️ Requirements
 
